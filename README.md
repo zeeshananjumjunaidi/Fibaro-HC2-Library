@@ -8,4 +8,5 @@ Features includes:
   * Create auto configuration on HC2 without need to access the Fibaro web app.
   * Get updates of the device.
   * Get notifications.
+  
 (<b>note:</b> you have to manually press <b>B</b> button on the sensors while adding or removing sensor. This library is using Fibaro REST API.)
